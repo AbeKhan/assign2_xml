@@ -50,7 +50,7 @@
     <computer id="admin">
         <manufacturer>Dell</manufacturer>
         <yearpurchased>0000</yearpurchased>
-        <processor>iceleron</processor>
+        <processor>celeron</processor>
         <monitors>
             <monitor id="admin1">
                 <manufacturer>HP</manufacturer>
